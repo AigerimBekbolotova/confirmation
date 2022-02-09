@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39306193-f1f6-4be0-9129-cf9272907ddc" name="Changes" comment="feat: add h2">
-      <change beforePath="$PROJECT_DIR$/confirmation.css" beforeDir="false" afterPath="$PROJECT_DIR$/confirmation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confirmation.html" beforeDir="false" afterPath="$PROJECT_DIR$/confirmation.html" afterDir="false" />
-    </list>
+    <list default="true" id="39306193-f1f6-4be0-9129-cf9272907ddc" name="Changes" comment="feat: add button" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644389102052</updated>
       <workItem from="1644389103087" duration="47000" />
-      <workItem from="1644389216035" duration="299000" />
+      <workItem from="1644389216035" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project confirmation">
       <created>1644389308870</created>
@@ -54,7 +51,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644389430002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add p">
+      <created>1644389530494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644389530494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add div(class number) + input">
+      <created>1644389615785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644389615785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add button">
+      <created>1644389682579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644389682579</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +93,9 @@
     <MESSAGE value="init: start project confirmation" />
     <MESSAGE value="feat: add container" />
     <MESSAGE value="feat: add h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add h2" />
+    <MESSAGE value="feat: add p" />
+    <MESSAGE value="feat: add div(class number) + input" />
+    <MESSAGE value="feat: add button" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add button" />
   </component>
 </project>
