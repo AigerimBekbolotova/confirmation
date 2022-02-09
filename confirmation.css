@@ -31,3 +31,27 @@ p {
     color: #A9A9A9;
     margin-top: 10px;
 }
+
+.number {
+    display: flex;
+    margin-top: 30px;
+}
+
+input {
+    width: 48px;
+    height: 48px;
+    border-radius: 15px;
+    border: 1px solid #DADADA;
+    margin-right: 5px;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+
+input::-webkit-input-placeholder {
+    color: black;
+}
+
+.first {
+    margin-left: 204px;
+}
